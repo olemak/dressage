@@ -1,0 +1,9 @@
+.DressageField {
+  margin: 1rem 1rem -1rem 1rem;
+  border: 2px solid black;
+  position: relative;
+  height: 80vh;
+  min-height: 100%;
+  width: 92%;
+  background-color: pink;
+}

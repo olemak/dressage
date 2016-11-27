@@ -1,0 +1,10 @@
+.App {
+
+}
+
+body {
+  height: 99vh;
+  width: 99vw;
+  position: fixed;
+  margin: 0;
+}

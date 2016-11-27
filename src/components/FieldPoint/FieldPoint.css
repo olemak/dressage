@@ -1,0 +1,106 @@
+.FieldPoint {
+
+	height: 1.2rem;
+	width: 1.2rem;
+	border: 1px solid black;
+	border-radius: 50%;
+	padding: 0.3rem;
+	margin: 0.3rem;
+	text-align: center;
+	background-color: white;
+	position: absolute;
+}
+
+.FieldPoint__A {
+	transform: translateX(-50%);
+	bottom: -1.36rem;
+	left: 50%;
+}
+
+.FieldPoint__K {
+	bottom: 7.5%;
+	left: -1.32rem;
+}
+.FieldPoint__V {
+	bottom: 27%;
+	left: -1.32rem;
+}
+
+.FieldPoint__E {
+	transform: translateY(-50%);
+	top: 50%;
+	left: -1.32rem;
+}
+.FieldPoint__S {
+	top: 27%;
+	left: -1.32rem;
+}
+.FieldPoint__H {
+	top: 7.5%;
+	left: -1.32rem;
+}
+
+.FieldPoint__C {
+	transform: translateX(-50%);
+	top: -1.36rem;
+	left: 50%;
+}
+
+.FieldPoint__M {
+	top: 7.5%;
+	right: -1.32rem;
+}
+
+.FieldPoint__R {
+	top: 27%;
+	right: -1.32rem;
+}
+
+.FieldPoint__B {
+	transform: translateY(-50%);
+	top: 50%;
+	right: -1.32rem;
+}
+
+.FieldPoint__P {
+	bottom: 27%;
+	right: -1.32rem;
+}
+
+
+.FieldPoint__F {
+	bottom: 7.5%;
+	right: -1.32rem;
+}
+
+
+
+
+
+/* CENTER */
+.FieldPoint__G {
+	top: 7.5%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.FieldPoint__L {
+	bottom: 27%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.FieldPoint__X {
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%);
+	transform: translateX(-50%);
+}
+.FieldPoint__I {
+	top: 27%;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.FieldPoint__D {
+	bottom: 7.5%;
+	left: 50%;
+	transform: translateX(-50%);
+}
